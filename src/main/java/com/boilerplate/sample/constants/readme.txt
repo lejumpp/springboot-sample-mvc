@@ -1,0 +1,2 @@
+The folder will containe a single file 'ApplicationConstants.java' which will house different constants used in the application 
+instead of typing the same or long strings used repeatedly in different areas
